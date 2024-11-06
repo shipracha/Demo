@@ -3,7 +3,7 @@
 <tiltle> My Life </tiltle>
 <body>
 <h1> This is my page </h1>
-<p> I will use it for you</p>
+<p> I will use it for many purpose</p>
 </body>
 </head>
 </html>
