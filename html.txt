@@ -1,6 +1,8 @@
 <html>
 <head>
-<tiltle> My life is precious</tiltle>
+
+<tiltle> Life is a journey</tiltle>
+
 <body>
 <h1> This is my page </h1>
 <p> I will use it for many purpose</p>
