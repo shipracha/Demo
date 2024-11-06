@@ -1,7 +1,7 @@
 <html>
 <head>
 
-<tiltle> Life is a journey</tiltle>
+<tiltle> life is a long journey</tiltle>
 
 <body>
 <h1> This is my page </h1>
